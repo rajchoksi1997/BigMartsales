@@ -289,3 +289,155 @@
 2020-09-09/03:18:14		Bad files moved to archive!! Bad folder Deleted!!
 2020-09-09/03:18:14		Validation Operation completed!!
 2020-09-09/03:18:14		Extracting csv file from table
+2020-09-09/20:39:01		Start of Prediction
+2020-09-09/20:39:01		Entered the get_data method of the Data_Getter class
+2020-09-09/20:39:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/20:39:01		Entered the is_null_present method of the Preprocessor class
+2020-09-09/20:39:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/20:39:01		Entered the remove_columns method of the Preprocessor class
+2020-09-09/20:39:01		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/20:39:01		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/20:39:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/20:39:01		Entered the load_model method of the File_Operation class
+2020-09-09/20:39:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/20:39:02		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/20:39:02		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/20:39:02		Entered the load_model method of the File_Operation class
+2020-09-09/20:39:02		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/20:39:02		End of Prediction
+2020-09-09/22:22:51		Start of Prediction
+2020-09-09/22:22:51		Entered the get_data method of the Data_Getter class
+2020-09-09/22:22:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/22:22:51		Entered the is_null_present method of the Preprocessor class
+2020-09-09/22:22:51		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/22:22:51		Entered the remove_columns method of the Preprocessor class
+2020-09-09/22:22:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/22:22:51		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:22:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:22:51		Entered the load_model method of the File_Operation class
+2020-09-09/22:22:51		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:22:52		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/22:22:52		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/22:22:52		Entered the load_model method of the File_Operation class
+2020-09-09/22:22:52		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:22:52		End of Prediction
+2020-09-09/22:23:34		Start of Prediction
+2020-09-09/22:23:34		Entered the get_data method of the Data_Getter class
+2020-09-09/22:23:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/22:23:34		Entered the is_null_present method of the Preprocessor class
+2020-09-09/22:23:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/22:23:34		Entered the remove_columns method of the Preprocessor class
+2020-09-09/22:23:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/22:23:34		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:23:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:23:34		Entered the load_model method of the File_Operation class
+2020-09-09/22:23:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:23:34		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/22:23:34		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/22:23:34		Entered the load_model method of the File_Operation class
+2020-09-09/22:23:34		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:23:34		End of Prediction
+2020-09-09/22:23:57		Start of Prediction
+2020-09-09/22:23:57		Entered the get_data method of the Data_Getter class
+2020-09-09/22:23:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/22:23:57		Entered the is_null_present method of the Preprocessor class
+2020-09-09/22:23:57		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/22:23:57		Entered the remove_columns method of the Preprocessor class
+2020-09-09/22:23:57		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/22:23:57		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:23:57		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:23:57		Entered the load_model method of the File_Operation class
+2020-09-09/22:23:57		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:23:57		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/22:23:57		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/22:23:57		Entered the load_model method of the File_Operation class
+2020-09-09/22:23:57		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:23:57		End of Prediction
+2020-09-09/22:24:35		Start of Prediction
+2020-09-09/22:24:35		Entered the get_data method of the Data_Getter class
+2020-09-09/22:24:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/22:24:35		Entered the is_null_present method of the Preprocessor class
+2020-09-09/22:24:35		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/22:24:35		Entered the remove_columns method of the Preprocessor class
+2020-09-09/22:24:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/22:24:35		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:24:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/22:24:35		Entered the load_model method of the File_Operation class
+2020-09-09/22:24:35		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:24:35		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/22:24:35		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/22:24:35		Entered the load_model method of the File_Operation class
+2020-09-09/22:24:35		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/22:24:35		End of Prediction
+2020-09-09/23:10:50		Start of Prediction
+2020-09-09/23:10:50		Entered the get_data method of the Data_Getter class
+2020-09-09/23:10:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/23:10:50		Entered the is_null_present method of the Preprocessor class
+2020-09-09/23:10:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/23:10:50		Entered the remove_columns method of the Preprocessor class
+2020-09-09/23:10:50		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/23:10:50		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:10:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:10:50		Entered the load_model method of the File_Operation class
+2020-09-09/23:10:50		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:10:50		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/23:10:50		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/23:10:50		Entered the load_model method of the File_Operation class
+2020-09-09/23:10:50		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:10:50		Exception occured in load_model method of the Model_Finder class. Exception message:  Buffer dtype mismatch, expected 'SIZE_t' but got 'long long'
+2020-09-09/23:10:50		Model File RandomForestRegressor0 could not be saved. Exited the load_model method of the Model_Finder class
+2020-09-09/23:10:50		Error occured while running the prediction!! Error:: 
+2020-09-09/23:11:44		Start of Prediction
+2020-09-09/23:11:44		Entered the get_data method of the Data_Getter class
+2020-09-09/23:11:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/23:11:44		Entered the is_null_present method of the Preprocessor class
+2020-09-09/23:11:44		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/23:11:44		Entered the remove_columns method of the Preprocessor class
+2020-09-09/23:11:44		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/23:11:44		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:11:44		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:11:44		Entered the load_model method of the File_Operation class
+2020-09-09/23:11:44		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:11:44		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/23:11:44		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/23:11:44		Entered the load_model method of the File_Operation class
+2020-09-09/23:11:44		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:11:44		Exception occured in load_model method of the Model_Finder class. Exception message:  Buffer dtype mismatch, expected 'SIZE_t' but got 'long long'
+2020-09-09/23:11:44		Model File RandomForestRegressor0 could not be saved. Exited the load_model method of the Model_Finder class
+2020-09-09/23:11:44		Error occured while running the prediction!! Error:: 
+2020-09-09/23:13:05		Start of Prediction
+2020-09-09/23:13:05		Entered the get_data method of the Data_Getter class
+2020-09-09/23:13:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/23:13:05		Entered the is_null_present method of the Preprocessor class
+2020-09-09/23:13:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/23:13:05		Entered the remove_columns method of the Preprocessor class
+2020-09-09/23:13:05		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/23:13:05		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:13:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:13:05		Entered the load_model method of the File_Operation class
+2020-09-09/23:13:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:13:05		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/23:13:05		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/23:13:05		Entered the load_model method of the File_Operation class
+2020-09-09/23:13:05		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:13:05		Exception occured in load_model method of the Model_Finder class. Exception message:  Buffer dtype mismatch, expected 'SIZE_t' but got 'long long'
+2020-09-09/23:13:05		Model File RandomForestRegressor0 could not be saved. Exited the load_model method of the Model_Finder class
+2020-09-09/23:13:05		Error occured while running the prediction!! Error:: 
+2020-09-09/23:13:59		Start of Prediction
+2020-09-09/23:13:59		Entered the get_data method of the Data_Getter class
+2020-09-09/23:13:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-09-09/23:13:59		Entered the is_null_present method of the Preprocessor class
+2020-09-09/23:13:59		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-09-09/23:13:59		Entered the remove_columns method of the Preprocessor class
+2020-09-09/23:13:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-09-09/23:13:59		Entered the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:13:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-09-09/23:13:59		Entered the load_model method of the File_Operation class
+2020-09-09/23:13:59		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:13:59		Entered the find_correct_model_file method of the File_Operation class
+2020-09-09/23:13:59		Exited the find_correct_model_file method of the Model_Finder class.
+2020-09-09/23:13:59		Entered the load_model method of the File_Operation class
+2020-09-09/23:13:59		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-09-09/23:13:59		Exception occured in load_model method of the Model_Finder class. Exception message:  Buffer dtype mismatch, expected 'SIZE_t' but got 'long long'
+2020-09-09/23:13:59		Model File RandomForestRegressor0 could not be saved. Exited the load_model method of the Model_Finder class
+2020-09-09/23:13:59		Error occured while running the prediction!! Error:: 
